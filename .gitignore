@@ -104,3 +104,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+
+
+# Nine Pines Animation 폴더 및 내부 파일 제외
+/[Aa]ssets/Nine Pines Animation/
+
+# 해당 폴더의 메타 파일 제외
+/[Aa]ssets/Nine Pines Animation.meta
